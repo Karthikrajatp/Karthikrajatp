@@ -8,6 +8,27 @@
   </a>
 </p>
 
+### ReachMe 📫
+<p align='center'>
+<a href="https://www.linkedin.com/in/karthikraja-tp/">
+<img src="https://skillicons.dev/icons?i=linkedin" />
+</a>
+&nbsp;
+&nbsp;
+<a href="mailto:tpkarthikraja@gmail.com">
+<img src="https://user-images.githubusercontent.com/73932121/156936080-302b8401-fced-44ec-a759-aa17e3476991.svg" />
+</a>
+&nbsp;
+&nbsp;
+<a href="https://twitter.com/KarthikRajaTP1">
+<img src="https://skillicons.dev/icons?i=twitter" />
+</a>
+&nbsp;
+&nbsp;
+<a href="https://www.instagram.com/karthikraja_tp/">
+<img src="https://skillicons.dev/icons?i=instagram" />
+</a>
+</p>
 
 
 <!--
@@ -24,8 +45,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-&nbsp;
-&nbsp;&nbsp;
-&nbsp;&nbsp;
-&nbsp;&nbsp;
-&nbsp;
+
