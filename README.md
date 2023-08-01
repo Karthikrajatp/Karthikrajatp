@@ -12,8 +12,8 @@
 
 <h2> Stat stuffs 🧮 </h2>
 <p>
-<img src='https://github-readme-stats.vercel.app/api/top-langs/?username=Karthikrajatp&layout=compact&theme=vision-friendly-dark&hide_progress=true' height='175' align='left' />
-<img src='http://github-readme-streak-stats.herokuapp.com?user=Karthikrajatp&theme=dark&background=000000' height='175' align='right' />
+<img src='https://github-readme-stats.vercel.app/api/top-langs/?username=Karthikrajatp&layout=compact&theme=vision-friendly-dark&hide_progress=true' height='150' align='left' />
+<img src='http://github-readme-streak-stats.herokuapp.com?user=Karthikrajatp&theme=dark&background=000000' height='150' align='right' />
 <!-- <img src='https://github-readme-stats.vercel.app/api?username=Karthikrajatp&show=reviews&theme=dark' height='200' width='2000' />
  -->
 </p>
