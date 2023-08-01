@@ -11,10 +11,10 @@
 
 ### Stat stuffs 🧮
 <p>
-<img src='https://github-readme-stats.vercel.app/api/top-langs/?username=Karthikrajatp&layout=compact&theme=vision-friendly-dark&hide_progress=true' height='200' width='2000' align='left' />
+<img src='https://github-readme-stats.vercel.app/api/top-langs/?username=Karthikrajatp&layout=compact&theme=vision-friendly-dark&hide_progress=true' height='200' align='left' />
 <img src='http://github-readme-streak-stats.herokuapp.com?user=Karthikrajatp&theme=dark&background=000000' height='200' align='right' />
-<img src='https://github-readme-stats.vercel.app/api?username=Karthikrajatp&show=reviews&theme=dark' height='200' />
-
+<!-- <img src='https://github-readme-stats.vercel.app/api?username=Karthikrajatp&show=reviews&theme=dark' height='200' width='2000' />
+ -->
 </p>
 
 <!--
@@ -32,6 +32,21 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 <br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+
+&nbsp;
+&nbsp;
+&nbsp;
+&nbsp;
+&nbsp;
+<img src="https://github.com/Karthikrajatp/Karthikrajatp/assets/78692527/a71228b0-bd7a-415a-8c38-8f2592112860" />
 
 ### ReachMe 📫
 <p align='center'>
@@ -54,6 +69,7 @@ Here are some ideas to get you started:
 <img src="https://skillicons.dev/icons?i=instagram" />
 </a>
 </p>
+
 
 
 
