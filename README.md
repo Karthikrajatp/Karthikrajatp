@@ -43,7 +43,7 @@ Here are some ideas to get you started:
 <br />
 
 <p align = "center">
-<img src="https://github.com/Karthikrajatp/Karthikrajatp/assets/78692527/a71228b0-bd7a-415a-8c38-8f2592112860" />
+<img src="https://github.com/Karthikrajatp/Karthikrajatp/assets/78692527/a71228b0-bd7a-415a-8c38-8f2592112860" height="280" />
 </p>
 <h2>ReachMe 📫 </h2>
 <p align='center'>
