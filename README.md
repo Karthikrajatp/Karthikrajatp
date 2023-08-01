@@ -1,15 +1,16 @@
-## Greetings 👋, Fellowmates of the Codiverse!!
+<h1> Greetings 👋, Fellowmates of the Codiverse </h1>
+
 ###### I am KarthikRaja T P, an intrepid traveller of the CodeCosmos 🧑🏾‍💻🌏. A 2️⃣ 0️⃣ year-old tech enthusiast all about collaboration 💪🏻 and continuous learning. Currently an IT undergrad @ SSN exploring Web, Apps, LLMs and NLP. I have been immersed in the practical aspects of creating innovative Solutions 💡 that shape the Future 🔮. I welcome you aboard my starship 🛸 of innovation✨ and exploration 🔍.
 
 
-### Skills 🛠️
+<h2> Skills 🛠️ </h2>
 <p align="center">
   <a href="https://github.com/Karthikrajatp?tab=repositories&q=&type=&language=&sort=" target="_blank">
     <img src="https://skillicons.dev/icons?i=python,cpp,swift,c,html,css,js,flask,nodejs,expressjs,mongo,react,git,linux&perline=7" />
   </a>
 </p>
 
-### Stat stuffs 🧮
+<h2> Stat stuffs 🧮 </h2>
 <p>
 <img src='https://github-readme-stats.vercel.app/api/top-langs/?username=Karthikrajatp&layout=compact&theme=vision-friendly-dark&hide_progress=true' height='200' align='left' />
 <img src='http://github-readme-streak-stats.herokuapp.com?user=Karthikrajatp&theme=dark&background=000000' height='200' align='right' />
@@ -41,14 +42,10 @@ Here are some ideas to get you started:
 <br />
 <br />
 
-&nbsp;
-&nbsp;
-&nbsp;
-&nbsp;
-&nbsp;
+<p align = "center">
 <img src="https://github.com/Karthikrajatp/Karthikrajatp/assets/78692527/a71228b0-bd7a-415a-8c38-8f2592112860" />
-
-### ReachMe 📫
+</p>
+<h2>ReachMe 📫 </h2>
 <p align='center'>
 <a href="https://www.linkedin.com/in/karthikraja-tp/">
 <img src="https://skillicons.dev/icons?i=linkedin" />
