@@ -1,6 +1,6 @@
 <h1> Greetings 👋, Fellowmates of the Codiverse </h1>
 
-##### I am KarthikRaja T P, an intrepid traveller of the CodeCosmos 🧑🏾‍💻🌏. A 2️⃣ 1️⃣ year-old tech enthusiast all about collaboration 💪🏻 and continuous learning. Currently an IT undergrad @ SSN exploring Web, Apps, LLMs and NLP. I have been immersed in the practical aspects of creating innovative Solutions 💡 that shape the Future 🔮. I welcome you aboard my starship 🛸 of innovation✨ and exploration 🔍.
+##### I am KarthikRaja T P, an intrepid traveller of the CodeCosmos 🧑🏾‍💻🌏. A 2️⃣ 1️⃣ year-old tech enthusiast all about collaboration 💪🏻 and continuous learning. Currently a Final year IT undergrad @ SSN exploring Web, Apps, LLMs and NLP. I have been immersed in the practical aspects of creating innovative Solutions 💡 that shape the Future 🔮. I welcome you aboard my starship 🛸 of innovation✨ and exploration 🔍.
 
 
 <h2> Skills 🛠️ </h2>
